@@ -5,5 +5,11 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 new branch
+<<<<<<< Updated upstream
 
 i'm fixbug 202
+=======
+modify
+
+stash
+>>>>>>> Stashed changes
